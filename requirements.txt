@@ -51,7 +51,7 @@ cytoolz==0.9.0.1
 dask==0.17.5
 datashape==0.5.4
 decorator==4.3.0
-distributed==1.21.8
+distributed==2021.10.0
 django-bootstrap3==11.0.0
 django-braces==1.13.0
 django-debug-toolbar==1.11
